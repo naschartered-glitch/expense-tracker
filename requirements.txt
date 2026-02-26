@@ -1,0 +1,7 @@
+flask
+anthropic
+gspread
+google-auth
+requests
+gunicorn
+beautifulsoup4
